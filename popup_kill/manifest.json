@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "auto-kill",
+  "version": "1.01",
+  "description": "kills_pop-up",
+
+  "background": {
+    "service_worker": "background.js"
+  },
+  
+  "host_permissions": ["http://*/*",
+    "https://*/*"],
+
+  "permissions": [
+    "tabs"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  }
+
+  
+}
