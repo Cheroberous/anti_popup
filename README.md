@@ -2,15 +2,15 @@
 Chrome extension to avoid popup on chosen websites
 (this is "few days project" that will be expanded)
 
-//               added features
+               added features
 
-   - the plug-in starts working only if:
-
+   - the plugin starts working only if:
+   - 
        1) we just opened Chrome and click on an already open page of anime/streaming community
        2) we open a new anime/streaming community page
        3) we use an already open page and search for anime/streaming community
 
-    - the plug-in will be deactivated/stop working if:
+    - the plugin will be deactivated/stop working if:
 
       1) we have just opened the browser
       2) we close the open anime/streaming community page
